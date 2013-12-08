@@ -1,0 +1,22 @@
+{
+  "name": "agnostic",
+  "version": "0.0.0-dev+master-2013.12.8",
+  "description": "code style toggling... because I don't like yours and you don't like mine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtudury/agnostic.git"
+  },
+  "author": "david tudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/agnostic/issues"
+  },
+  "dependencies": {
+    "esprima": "~1.0.4",
+    "escodegen": "~1.0.1"
+  }
+}
